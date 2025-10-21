@@ -1,0 +1,16 @@
+# Core LangChain libraries
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+
+# Vector store
+faiss-cpu
+pypdf
+sentence-transformers
+
+# Environment variables
+python-dotenv
+
+# Web UI
+streamlit
