@@ -4,7 +4,7 @@ import main  # this is your backend file, e.g., backend.py
 
 st.set_page_config(page_title="RAG PDF Summarizer", page_icon="📝")
 
-st.title("📝 RAG Text Summarizer")
+st.title("📝 RAG PDF Summarizer")
 
 st.sidebar.header("Upload & Query")
 uploaded_file = st.sidebar.file_uploader("Upload a PDF or TXT file", type=["pdf", "txt"])
